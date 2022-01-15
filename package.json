@@ -1,0 +1,19 @@
+{
+  "name": "storybooks",
+  "version": "1.0.0",
+  "description": "App to create public and private stories",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jc-cedric/STORYBOOKS.git"
+  },
+  "author": "Cédric HAZOUME",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jc-cedric/STORYBOOKS/issues"
+  },
+  "homepage": "https://github.com/jc-cedric/STORYBOOKS#readme"
+}
